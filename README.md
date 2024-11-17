@@ -9,6 +9,7 @@ Monthly Sales Trends
 The data shows a clear seasonal pattern in monthly sales, with higher order volumes during the summer months and lower volumes in the winter. July and August appear to be the peak sales months, while December and January see the lowest order quantities. Understanding these cyclical trends is crucial for effective inventory management, workforce planning, and strategic decision-making.
 
 ![demo 2](https://github.com/user-attachments/assets/15f45ce8-751d-4f6a-aa7d-c503721cd374)
+![demo3](https://github.com/user-attachments/assets/c131b075-b438-4e59-86c2-a2d44721390c)
 
 Conclusion: UnlockingGrowth through Data-DrivenInsights
 
